@@ -24,13 +24,6 @@ I'm a mature team worker and ready for challenging situations. At the same time 
 - SQL
 - Git
 
-### **Education (Bachelor degree)**
-**Belarusian State University of Informatics and Radioelectronics, Minsk (2013 - 2018)**
-<br> Faculty of distance learning, Economics in Electronic Business
-
-**Minsk State Higher Radiotechnical College, Minsk (2009 - 2013)**
-<br> Faculty of Information Technology Software, Software Engineering
-
 ### **Experience (8 years)**
 **[NextSoft](www.nextsoft.by), Minsk (february 2018 - february 2021)**
 <br> Java Developer
@@ -69,9 +62,12 @@ Technologies:
 - DB: Oracle
 - VCS: SVN
 
+### **Education (Bachelor degree)**
+**Belarusian State University of Informatics and Radioelectronics, Minsk (2013 - 2018)**
+<br> Faculty of distance learning, Economics in Electronic Business
 
-### **English level**
-B1 - Intermediate 
+**Minsk State Higher Radiotechnical College, Minsk (2009 - 2013)**
+<br> Faculty of Information Technology Software, Software Engineering
 
 ### **Courses**
 - HTML & CSS. Professional Website Coding (HTMLAcademy)
@@ -80,3 +76,6 @@ B1 - Intermediate
 11.2017 - 02.2018
 - Java Programming Language (IBA Institute)
 11.2016 - 12.2016
+
+### **English level**
+B1 - Intermediate 
