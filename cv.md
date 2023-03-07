@@ -16,6 +16,11 @@ I'm a mature team worker and ready for challenging situations. At the same time 
 |Email|n.khatkovskaya@gmail.com|
 |Skype|n.khatkovskaya|
 |LinkedIn|[nkhatkovskaya](https://www.linkedin.com/in/nkhatkovskaya/)|
+|Codewars|[khatkovskaya](https://www.codewars.com/users/khatkovskaya)|
+|Discord|Natalia (@khatkovskaya)
+
+### **Portfolio**
+[Sedona](https://github.com/khatkovskaya/sedona)
 
 ### **Key skills**
 - Java 8
