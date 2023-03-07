@@ -1,2 +1,1 @@
-My CV is here:
-https://github.com/khatkovskaya/rsschool-cv/cv
+[Natallia Khatkouskaya](https://github.com/khatkovskaya/rsschool-cv/cv)
