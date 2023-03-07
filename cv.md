@@ -1,7 +1,4 @@
 # Natallia Khatkouskaya
-
-### **Personal information**
-
 ![Natallia Khatkouskaya](img/cv-photo.jpg)
 <br><br>
 Date of birth : 16.02.1994 <br>
