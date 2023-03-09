@@ -1,1 +1,1 @@
-[Natallia Khatkouskaya](https://github.com/khatkovskaya/rsschool-cv/cv)
+[CV of Natallia Khatkouskaya](https://khatkovskaya.github.io/rsschool-cv/)
